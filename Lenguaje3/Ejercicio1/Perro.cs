@@ -60,7 +60,7 @@ namespace Ejercicio1
             Altura = altura;
         }
 
-            //Podemos usar "Sobrecarga".
+            ////Podemos usar "Sobrecarga".
         public Perro(string nombre)
         {
             Nombre = nombre;

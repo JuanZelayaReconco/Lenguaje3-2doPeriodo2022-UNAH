@@ -10,6 +10,15 @@ using System.Windows.Forms;
 
 namespace JuanZelaya
 {
+    //UNAH
+    //17-06-2022
+    //Segundo Periodo - 2022
+    //IA086 - Lenguaje de Programación III
+    //Examen Primer Parcial
+    //Docente: Ing. Nahum Casco Muñoz
+    //Alumno: Juan Samuel Zelaya Reconco
+    //No. de Cuenta: 20081002433
+
     public partial class Intereses : Form
     {
         public Intereses()
